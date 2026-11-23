@@ -1,5 +1,9 @@
 # GTA 6 meme on X — a make.fun gta6-meme-x-01 entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/aditya200798/gta6-meme-getaway/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/aditya200798/gta6-meme-getaway/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 **The meme:** GTA 6 launch day. I called in sick — my boss found out — so
 my AI agent drove the getaway. The make.fun ghost is at the wheel of a
 pink Vice City convertible, magenta star coin in hand, a Leonida police
